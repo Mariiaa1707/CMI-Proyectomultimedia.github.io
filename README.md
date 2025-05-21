@@ -64,6 +64,7 @@ Recursos y materiales audiovisuales:
 ![Captura](https://github.com/user-attachments/assets/aefa1c7a-939e-4ca1-8955-dd6f6ed57f6f)
 ![Captura licencia](https://github.com/user-attachments/assets/42c0fb48-ad44-4e52-acd4-c76f7b90f70f)
 
+
 https://creativecommons.org/licenses/?lang=es
 
 Mayo 2025
