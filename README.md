@@ -3,8 +3,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 ## 1 Datos
 Titulo : Dónde yo solo sea
-Web: (url github.io)
-
+Web: https://mariiaa1707.github.io/CMI-Proyectomultimedia.github.io/
 Autor: María del Carmen Jiménez García.
 Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
