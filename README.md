@@ -1,13 +1,11 @@
-# (Nombre del proyecto)
+# DÓNDE YO SOLO SEA
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
-
+Titulo : Dónde yo solo sea
 Web: (url github.io)
 
-Autor: (Nombre apellidos)
-
+Autor: María del Carmen Jiménez García.
 Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
 Estilo/género: Novela / juego / portfolio / documental... etc.
@@ -18,18 +16,12 @@ Logotipo : (insertar imagen y breve justificación, si tiene)
 
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: MS Edge
 
-Tamaño proyecto: 14MB
+Fecha : 21/05/2025
 
-Fecha : 14/05/2025
-
-Medios (donde se tiene presencia relacionada):
-
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Medios:
+Github: Mariiaa1707
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
@@ -46,7 +38,9 @@ Este proyecto es interesante porque ...
 
 Orientado a .. (Público)
 
-Etapa 2: Desarrollo / actividades realizadas
+Etapa 2: Desarrollo / actividade
+
+Tamaño proyecto: 54 KBs realizadas
 
 Video
 Instrucciones y ayuda al usuario
