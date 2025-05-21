@@ -20,6 +20,8 @@ Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y
 
 Probado en: MS Edge
 
+Tamaño proyecto: 54 KB
+
 Fecha : 21/05/2025
 
 Medios:
@@ -40,9 +42,7 @@ Este proyecto es interesante porque ...
 
 Orientado a .. (Público)
 
-Etapa 2: Desarrollo / actividade
-
-Tamaño proyecto: 54 KBs realizadas
+Etapa 2: Desarrollo / actividades realizadas
 
 Video
 Instrucciones y ayuda al usuario
@@ -61,7 +61,8 @@ Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new techn
 Recursos y materiales audiovisuales:
 
 **Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![Captura](https://github.com/user-attachments/assets/aefa1c7a-939e-4ca1-8955-dd6f6ed57f6f)
+![Captura licencia](https://github.com/user-attachments/assets/42c0fb48-ad44-4e52-acd4-c76f7b90f70f)
 
 https://creativecommons.org/licenses/?lang=es
 
