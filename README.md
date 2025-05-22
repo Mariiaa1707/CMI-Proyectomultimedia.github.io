@@ -12,9 +12,10 @@ Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo 
 
 Estilo/género: Novela / juego / portfolio / documental... etc.
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
+Logotipo : El logotipo escogido tiene un significado que esta totalmente relacionado con el tema del proyecto ya que es la granada que se representa en los azulejos de los nombres de las calles de Granada y mi proyecto trata principalmente de dicha ciudad. 
 
-(insertar imágenes a resolucion de 100px alto)
+![logotipo](https://github.com/user-attachments/assets/21163a62-8193-45b7-87c6-f130be383a5e)
+
 
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
