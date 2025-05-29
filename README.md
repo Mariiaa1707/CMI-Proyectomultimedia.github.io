@@ -30,11 +30,23 @@ Medios:
 Github: Mariiaa1707
 
 ## 2. Memoria del proyecto
-### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+### 2.1. Storyboard y esquema de navegación
+El proyecto comienza con una pantalla de introducción visual. Desde aquí, el usuario es dirigido automáticamente hacia el MENÚ principal donde se presentan tres opciones principales y ,cada una de ellas, llevan a una sección distinta del proyecto. 
 
-### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+1. Introducción
+Al hacer clic en Introducción, se accede a una pantalla con texto explicativo e imágenes acompañados de sonido (con opciones de play, pausa y control de volumen). Desde aquí, se puede regresar al menú con el botón de atrás.
+
+2. Juegos
+En la sección de Juegos, el usuario puede elegir entre dos juegos (Juego 1 y Juego 2). Cada uno conduce a su propia pantalla de juego, que cuenta con un botón de información y la opción de regresar al menú anterior.
+
+3. Fotografías
+Al seleccionar Fotografías, se accede a una pantalla con dos opciones: Granada o Chana
+La primera opción abre una galería donde se podrán visualizar las imagenes deslizando y, la segunda, lleva a una vista en miniaturas para que puedas seleccionar una imagen específica para ampliarla. Todas las subpantallas tienen opción de regresar al menú anterior.
+
+En varias pantallas, hay iconos de información (i) que despliegan detalles contextuales o instrucciones para la navegación o contenido adicional.
+
+
+![1000008643](https://github.com/user-attachments/assets/e1ca6da2-2cb0-4228-80b2-59c8e3eec805)
 
 ## 3. Metodología
 
