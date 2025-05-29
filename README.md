@@ -40,7 +40,7 @@ Al hacer clic en Introducción, se accede a una pantalla con texto explicativo e
 En la sección de Juegos, el usuario puede elegir entre dos juegos (Juego 1 y Juego 2). Cada uno conduce a su propia pantalla de juego, que cuenta con un botón de información y la opción de regresar al menú anterior.
 
 3. Fotografías
-Al seleccionar Fotografías, se accede a una pantalla con dos opciones: Granada o Chana
+Al seleccionar Fotografías, se accede a una pantalla con dos opciones: Granada o Chana.
 La primera opción abre una galería donde se podrán visualizar las imagenes deslizando y, la segunda, lleva a una vista en miniaturas para que puedas seleccionar una imagen específica para ampliarla. Todas las subpantallas tienen opción de regresar al menú anterior.
 
 En varias pantallas, hay iconos de información (i) que despliegan detalles contextuales o instrucciones para la navegación o contenido adicional.
