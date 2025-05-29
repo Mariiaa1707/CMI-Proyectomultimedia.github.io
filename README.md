@@ -79,6 +79,8 @@ Aunque el proyecto está bien organizado y desarrollado en general, hay errores 
 Ha sido un proyecto en el que, aunque he tenido varias complicaciones, he aprendido mucho en el proceso de creación y diseño del mismo. Me gustaría mejorarlo aún más y terminar de añadir y retocar detalles para que quede como se tenía planteado desde un inicio.
 
 **Hippani Animator 5.1**
+
+
 ![Captura](https://github.com/user-attachments/assets/aefa1c7a-939e-4ca1-8955-dd6f6ed57f6f)
 ![Captura licencia](https://github.com/user-attachments/assets/42c0fb48-ad44-4e52-acd4-c76f7b90f70f)
 
