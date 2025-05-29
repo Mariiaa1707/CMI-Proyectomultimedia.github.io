@@ -50,20 +50,30 @@ En varias pantallas, hay iconos de información (i) que despliegan detalles cont
 
 ## 3. Metodología
 
-Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+### Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ofrece una forma innovadora de explorar la ciudad de Granada a través de la fotografía. No se limita a mostrar imágene, sino que propone una experiencia visual e interactiva que combina arte, narrativa y tecnología.
+Este proyecto es interesante porque ofrece una forma innovadora de explorar la ciudad de Granada a través de la fotografía. No se limita a mostrar imágenes, sino que propone una experiencia visual e interactiva que combina arte, narrativa y tecnología.
 
 Orientado a personas tanto adultas, que pueden interesarse por la información y el proyecto fotográfico en si, como niños y jóvenes, al incluir un apartado interactivo con juegos. 
 
-Etapa 2: Desarrollo / actividades realizadas
+### Etapa 2: Desarrollo / actividades realizadas
 
-Video
-Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
-Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+Se creó un video de introducción. Este video utiliza una metáfora visual basada en un carrete de fotografía, en el que se despliegan imágenes simbólicas relacionadas con el contenido (Granada, Chana, elementos culturales y visuales). Este recurso no solo capta la atención del usuario, sino que sirve como punto de entrada hacia la experiencia interactiva. Además, a lo largo del proyecto, se incorporaron indicaciones visuales y textuales para guiar al usuario en todo momento. Estas ayudas incluyen:
+
+-Iconos de información ("i") que explican brevemente qué hacer en cada sección.
+
+-Indicaciones de navegación como "atrás", "deslizar para ver galería", o "cómo jugar".
+
+-Controles de audio accesibles (play, pausa, volumen).
+
+
+El menú principal y los juegos, relacionados con los contenidos del proyecto, son muy intuitivos y, en cada pantalla secundaria, se incluye botones de navegación visibles que permiten navegar sin problema.
+Por último, durante el desarrollo, se realizaron pruebas para asegurar que todos los elementos fueran funcionales y coherentes. Se ajustaron aspectos de diseño visual, flujo de navegación y accesibilidad para asegurar que el proyecto fuera usable y atractivo.
+
+
+### Etapa 3: Problemas identificados
+Aunque el proyecto está bien organizado y desarrollado en general, hay errores en la sección de juegos: no presentan límites o mecanismos de colisión que obliguen al usuario a completar la actividad de forma correcta. Esto significa que el usuario puede interactuar con los elementos sin seguir necesariamente las reglas del juego, lo que reduce la efectividad y la experiencia interactiva esperada.
+
 
 ## 4. Conclusiones
 Ha sido un proyecto en el que, aunque he tenido varias complicaciones, he aprendido mucho en el proceso de creación y diseño del mismo. Me gustaría mejorarlo aún más y terminar de añadir y retocar detalles para que quede como se tenía planteado desde un inicio.
