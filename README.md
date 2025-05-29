@@ -83,6 +83,8 @@ Ha sido un proyecto en el que, aunque he tenido varias complicaciones, he aprend
 ![Captura licencia](https://github.com/user-attachments/assets/42c0fb48-ad44-4e52-acd4-c76f7b90f70f)
 
 
+
+
 https://creativecommons.org/licenses/?lang=es
 
 Mayo 2025
